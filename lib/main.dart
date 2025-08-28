@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:urbannest/screens/home_screen.dart';
 import 'package:urbannest/screens/onboarding.dart';
 import 'package:urbannest/screens/profile_screen.dart';
+import 'package:urbannest/screens/saved_screen.dart';
 import 'package:urbannest/screens/search_screen.dart';
 import 'package:urbannest/widgets/bottom_navigation.dart';
 
@@ -42,7 +43,7 @@ class _MainScreenState extends State<MainScreen> {
   static const List<Widget> _widgetOptions = <Widget>[
     HomeScreen(),
     SearchScreen(),
-    Scaffold(body: Center(child: Text('Saved'))),
+    SavedScreen(),
     ProfileScreen(),
   ];
 
