@@ -74,13 +74,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 | Onboarding | Search |
 |---|---|
-| ![Onboarding](screenshots/onboarding.png) | ![Search](screenshots/search.png) |
+| <img src="screenshots/onboarding.png" width="300"/> | <img src="screenshots/search.png" width="300"/> |
 
 | Property Detail | Profile |
 |---|---|
-| ![Property Detail](screenshots/property_detail.png) | ![Profile](screenshots/profile.png) |
+| <img src="screenshots/property_detail.png" width="300"/> | <img src="screenshots/profile.png" width="300"/> |
 
 | Home |
 |---|
-| ![Home](screenshots/home.png) |
+| <img src="screenshots/home.png" width="300"/> |
 
